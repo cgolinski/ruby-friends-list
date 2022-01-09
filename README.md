@@ -2,7 +2,9 @@
 
 Tutorial https://www.youtube.com/watch?v=fmyvWz5TUWg
 
----
+Left off at https://youtu.be/fmyvWz5TUWg?t=3795
+
+## Built with [Bootstrap 5.1](https://getbootstrap.com/docs/5.1)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
